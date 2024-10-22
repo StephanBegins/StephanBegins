@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ML based DataScience Projects](https://github.com/StephanBegins/GuviWorkshopDS)
+- 🔭 I’m currently working on [LLM AI Models, Developing PowerBI Dashboards, and Machine Learning Projects](https://github.com/StephanBegins/GuviWorkshopDS)
 
-- 🌱 I’m currently learning **AI,ML and DataScience**
+- 🌱 I’m consistent Learner in **Python, SQL, AWS, PowerBI, Tableau, ML Models, LLM and so on**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StephanBegins?tab=projects](https://github.com/StephanBegins?tab=projects)
 
-- 💬 Ask me about **Python, Tableau, DataAnalysis**
+- 💬 Ask me about **Python, Tableau, AWS Cloud Fundamentals**
 
 - 📫 How to reach me **stephan1217at@gmail.com**
 
